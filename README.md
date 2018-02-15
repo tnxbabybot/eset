@@ -26,3 +26,5 @@ screen ./bot cli
 cd ESET
 
 screen ./bot api
+
+#### [NoFooZiTM](https://t.me/joinchat/AAAAAFCNKWyjPTeqG6Nv7Q)
