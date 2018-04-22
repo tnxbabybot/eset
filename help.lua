@@ -31,7 +31,7 @@ help = [[
 
 > `برای دریافت راهنمای بخش مورد نظر کافیست شماره آن را ارسال نمایید` !
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
 ]]
 ,
 helplock = [[
@@ -65,7 +65,7 @@ helplock = [[
 - `سنجاق پیام`
 - `ورود عضو`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
     ‌‌
 ]]
 ,
@@ -91,7 +91,7 @@ helpmedia = [[
 - `استیکر`
 - `موقعیت مکانی`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
 ]]
 ,
 helpsetlink = [[
@@ -103,7 +103,7 @@ helpsetlink = [[
 
 پس از ثبت شدن میتوانید با دستور `لینک گروه` آن را هر زمان که خواستید دریافت کنید !
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
     ‌‌‌‌
 ]]
 ,
@@ -145,7 +145,7 @@ helpprodemo = [[
 
 `ارتقا مقام "منشن"`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
     ‌‌
 ]]
 ,
@@ -181,7 +181,7 @@ helpjanebi = [[
 برای خارج کردن پیام از حالت سنجاق میتوانید از دستور ( `حذف سنجاق` ) استفاده کنید
 برای مجدد سنجاق کردن پیام سابق میتوانید از دستور ( `سنجاق مجدد`) استفاده نمایید
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
     ‌‌‌‌
 ]]
 ,
@@ -221,7 +221,7 @@ helpspamflood = [[
 
 تنظیم فلود `[ 1 - به بالا ]`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
     ‌‌‌‌
 ]]
 ,
@@ -276,7 +276,7 @@ helpvaziat = [[
 
 `بازکردن حالت عدم جواب`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
     ‌‌‌‌
 ]]
 ,
@@ -311,7 +311,7 @@ helppanel = [[
 
 `نمایش ادیت غیرفعال`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
     ‌‌‌‌
 ]]
 ,
@@ -346,7 +346,7 @@ helpclean = [[
 
 `پاکسازی پیام ها`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
 ]]
 ,
 helpwarn = [[
@@ -379,7 +379,7 @@ helpwarn = [[
 
 `وضعیت اخطار اخراج`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
 ]]
 ,
 helpfun = [[
@@ -463,7 +463,7 @@ id
 دستور انگلیسی :
 Me
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
 ]]
 }
 ,
@@ -488,7 +488,7 @@ help = [[
 
 > To get to the * FAQ * section, simply send its * Number *!
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @channel
 ]]
 ,
 helplock = [[
@@ -525,7 +525,7 @@ You can active bot locks withe `lock` Pattern and You can inactive bot locks wit
 - `Inline`
 - `Member`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
 ]]
 ,
 helpmedia = [[
@@ -553,7 +553,7 @@ You can active Media lock withe `lock` Pattern and You can inactive Media lock w
 - `Contact`
 - `Sticker`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
 ]]
 ,
 helpsetlink = [[
@@ -565,7 +565,7 @@ Then link the group to be *Recorded* within the group itSelf  !
 
 Once registered with the command `Link` can get it whenever you want !
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
 ]]
 ,
 helpprodemo = [[
@@ -599,7 +599,7 @@ Dismissal of the above steps is enough for one person only with the difference t
 
 `Promote 'Metion'`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
 ]]
 ,
 helpjanebi = [[
@@ -634,7 +634,7 @@ To pin down a message via robot can send messages to the `Pin` Ryplay then order
 To remove the message from the pin `Unpin` can use the command !
 To re-pin the former message, you can use the command `Repin` !
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
 ]]
 ,
 helpspamflood = [[
@@ -671,7 +671,7 @@ Its *Sensitivity* is adjustable to a duplicate message!
 
 `Setflood [1 - Up]`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
 ]]
 ,
 helpvaziat = [[
@@ -717,7 +717,7 @@ Some of universal grammar, that is normal users are answered, they will not resp
 *Deactivate* :
 `Unlock cmd`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
 ]]
 ,
 helppanel = [[
@@ -758,7 +758,7 @@ Pattern :
 Pattern :
 `showedit off`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
 ]]
 ,
 helpclean = [[
@@ -804,7 +804,7 @@ Pattern:
 Pattern:
 `Clean members`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
 ]]
 ,
 helpwarn = [[
@@ -918,7 +918,7 @@ helpfun = [[
 * Pattern *:
 `Me`
 
->`کانال ما` | @NoFooZiTM
+>`کانال ما` | @TD_channel
 ]]
 }
 }
