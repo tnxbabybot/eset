@@ -1,5 +1,5 @@
 # ESET
-git clone https://github.com/NoFooZiTM/ESET
+git clone https://github.com/tnxbabybot/ESET
 
 cd ESET
 
@@ -27,4 +27,4 @@ cd ESET
 
 screen ./bot api
 
-### [NoFooZiTM](https://t.me/joinchat/AAAAAFCNKWyjPTeqG6Nv7Q)
+### [borhan](https://t.me/borhawn)
